@@ -1,0 +1,10 @@
+{
+    "name":         "jquery.form",
+    "version":      "0.0.1",
+    "dependencies": {
+        "jquery-form": "*"
+    },
+    "main":         [
+        "bower.json"
+    ]
+}
